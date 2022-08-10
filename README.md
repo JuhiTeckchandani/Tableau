@@ -8,8 +8,8 @@
 
 - The dashboard represents the employee performance and attrition rate.
 
-<img src="Assets/Covid_Data_Dashboard.png" width="250">
+<img src="Assets/Covid_Data_Dashboard.png" width="1000">
 
-<img src="Assets/Revenue_Leads.png" width="250">
+<img src="Assets/Revenue_Leads.png" width="1000">
 
 
